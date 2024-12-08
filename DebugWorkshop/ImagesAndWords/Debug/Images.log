@@ -1,0 +1,3 @@
+﻿  Images.cpp
+C:\Users\Cyber_User\Documents\Magshimim\e1\week6\DebugWorkshop\ImagesAndWords\Images.cpp(45,19): warning C4244: 'return': conversion from 'std::streamoff' to 'int', possible loss of data
+  Images.vcxproj -> C:\Users\Cyber_User\Documents\Magshimim\e1\week6\DebugWorkshop\Debug\ImagesAndWords.exe
